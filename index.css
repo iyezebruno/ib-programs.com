@@ -1,0 +1,26 @@
+#one{
+	background-color: #183A37;
+	width: 90%;
+	height: 70PX;
+	margin-left: 50px;
+
+}
+li{
+	float: right;
+	padding: 15px;
+	padding-bottom: 30px;
+
+}
+p{
+	color: black;
+	padding: 15px;
+	padding-left: 196px;
+	font-size: 28px;
+	position: relative;
+	bottom: 95px;
+
+}
+li a: hover{
+	color: orange;
+	background-color: gray;
+}
